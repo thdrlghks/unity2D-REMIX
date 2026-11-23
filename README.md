@@ -54,7 +54,7 @@ LAP은 Helltaker의 스테이지 및 퍼즐 디자인을 바탕으로 제작한 
 - **원본 GitHub 저장소:** [TeamODD/Lap](https://github.com/TeamODD/Lap)
 - **게임 플레이 영상:** 추후 추가
 - **게임 스크린샷:** 추후 추가
-
+- **게임 다운로드:** [TeamODD/REM:IX](https://teamodd.pages.dev/project/1747765435853)
 ## 팀 프로젝트 안내
 
 본 프로젝트는 팀으로 개발한 프로젝트이며, 본 문서는 제가 담당한 플레이어 조작 및 인게임 배치 작업을 중심으로 정리했습니다. 원본 소스 코드는 위 GitHub 저장소에서 확인할 수 있습니다.
